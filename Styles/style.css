@@ -4,8 +4,13 @@ body{
 
 h1{
     color: #999999;
-    font-size: large;
+    font-size: xx-large;
 }
+
+h2{
+    color: #707075;
+}
+
 h3{
     font: italic, bold;
 }
