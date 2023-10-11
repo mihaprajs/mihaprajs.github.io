@@ -8,12 +8,14 @@ h1{
 }
 
 h2{
+    font-size: x-large;
     color: #707075;
 }
 
 h3{
     font: italic, bold;
     color: #999999;
+    font-size: large;
 }
 
 #general{
