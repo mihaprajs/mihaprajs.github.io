@@ -8,7 +8,7 @@ html, body{
 }
 body{
     margin: 0;
-    background-color: darkgray;
+    background-color: black;
     font-family: 'Calibri';
 }
 h1{
@@ -17,4 +17,8 @@ h1{
 }
 #about-me{
     font-size: medium;
+}
+#UniLink{
+    color: black;
+    
 }
