@@ -8,10 +8,13 @@ html, body{
 }
 body{
     margin: 0;
-    background-color: whitesmoke;
+    background-color: darkgray;
     font-family: 'Calibri';
 }
 h1{
     font-size: 12px;
-    color: darkblue;
+    color: blue;
+}
+#about-me{
+    font-size: medium;
 }
