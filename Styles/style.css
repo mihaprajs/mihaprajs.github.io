@@ -1,13 +1,9 @@
-header{
-    color: aqua;
-}
-
 body{
-    background-color: black;
+    background-color: darkgray;
 }
 
 h1{
     font: bold;
     font-size: 12px;
-    color: blue;
+    color: black;
 }
