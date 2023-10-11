@@ -2,5 +2,7 @@
 
 This is a website about me. There are links to my socialmedia accounts as well as my contact. 
 
-There is also a photography portfolio on this website.
+For more information click [here](mihaprajs.github.io) or on link in description box on the side.
+
+Also, there is a photography portfolio lower on the website.
  
