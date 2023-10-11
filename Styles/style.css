@@ -1,22 +1,23 @@
 body{
-    background-color: #382bf0;
+    background-color: #0d0d17;
 }
 
 h1{
-    color: lightgray;
+    color: #999999;
+    font-size: large;
 }
 h3{
-    font: italic;
+    font: italic, bold;
 }
 
 #general{
-    color: lightgray;
+    color: #6e6e74;
 }
 
 #skills{
-    color: lightgray;
+    color: #6e6e74;
 }
 
 #hobbys{
-    color: lightgray;
+    color: #6e6e74;
 }
