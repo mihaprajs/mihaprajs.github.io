@@ -1,7 +1,19 @@
 body{
-    background-color: rgb(27, 27, 27);
+    background-color: #382bf0;
 }
 
 h1{
-    color: white;
+    color: lightgray;
+}
+
+#general{
+    color: lightgray;
+}
+
+#skills{
+    color: lightgray;
+}
+
+#hobbys{
+    color: lightgray;
 }
