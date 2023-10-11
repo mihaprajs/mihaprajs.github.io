@@ -3,8 +3,15 @@ header{
     font-size: 16px;
     font-family: 'Times New Roman';
 }
+html, body{
+    height: 100%;
+}
 body{
     margin: 0;
-    font-size: 12px;
+    background-color: whitesmoke;
     font-family: 'Calibri';
+}
+h1{
+    font-size: 12px;
+    color: darkblue;
 }
