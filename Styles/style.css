@@ -5,6 +5,9 @@ body{
 h1{
     color: lightgray;
 }
+h3{
+    font: italic;
+}
 
 #general{
     color: lightgray;
