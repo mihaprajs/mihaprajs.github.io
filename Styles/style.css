@@ -3,34 +3,34 @@ body{
 }
 
 h1{
-    color: #999999;
+    color: #FFFFFF;
     font-size: xx-large;
 }
 
 h2{
     font-size: x-large;
-    color: #999999;
+    color: #FFFFFF;
 }
 
 h3{
     font: italic, bold;
-    color: #707075;
+    color: #999999;
     font-size: large;
 }
 
 #general{
-    color: #6e6e74;
+    color: #707075;
 }
 
 #skills{
-    color: #6e6e74;
+    color: #707075;
 }
 
 #hobbys{
-    color: #6e6e74;
+    color: #707075;
 }
 #contact-info{
-    color: #6e6e74;
+    color: #707075;
 }
 hr{
     color: whitesmoke;
