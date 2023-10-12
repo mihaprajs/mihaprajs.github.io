@@ -9,12 +9,12 @@ h1{
 
 h2{
     font-size: x-large;
-    color: #707075;
+    color: #999999;
 }
 
 h3{
     font: italic, bold;
-    color: #999999;
+    color: #707075;
     font-size: large;
 }
 
