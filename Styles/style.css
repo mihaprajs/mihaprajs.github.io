@@ -43,7 +43,6 @@ hr{
     color: #999999;
 }
 
-.flex-container{
+.flex-item{
     text-align: center;
-    align-items: center;
 }
