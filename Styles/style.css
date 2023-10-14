@@ -52,6 +52,6 @@ hr{
     justify-content: center;
 }
 .flex-item{
+    padding: 3rem;
     text-align: center;
-    align-items: center;
 }
