@@ -42,17 +42,8 @@ hr{
     font: italic;
     color: #999999;
 }
+
 .flex-container{
-    height: 100%;
-    padding: 0;
-    margin: 0;
-    display: flex;
     align-items: center;
     justify-content: center;
-}
-.flex-item{
-    padding: 3rem;
-    text-align: center;
-    background-color: #191c24;
-    border-radius: 1rem;
 }
