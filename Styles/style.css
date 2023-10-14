@@ -46,3 +46,6 @@ hr{
 .flex-container{
     text-align: center;
 }
+.flex-item{
+    align-items: center;
+}
