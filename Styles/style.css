@@ -44,5 +44,5 @@ hr{
 }
 
 .flex-container{
-    text-align: center;
+    align-items: center;
 }
