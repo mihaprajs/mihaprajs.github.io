@@ -1,5 +1,4 @@
 body{
-    margin-left: 20;
     background-color: #0d0d17;
 }
 
@@ -35,14 +34,11 @@ h3{
     color: #707075;
 }
 
-#links{
-    color: #999999;
-}
-
 hr{
     color: whitesmoke;
 }
 
 #portfolio{
     font: italic;
+    color: #999999;
 }
