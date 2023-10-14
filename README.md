@@ -1,4 +1,4 @@
-# miha.prajs.github.io - Presonal website
+# miha.prajs.github.io - Presonal website (work in progress)
 
 This is a little website about me. There are links to my socials as well as my contact. 
 
