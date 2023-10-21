@@ -13,7 +13,8 @@ h2{
 }
 
 h3{
-    font: italic, bold;
+    font-weight: bold;
+    font-style: italic;
     color: #999999;
     font-size: large;
 }
@@ -26,7 +27,7 @@ h3{
     color: #707075;
 }
 
-#hobbys{
+#hobbies{
     color: #707075;
 }
 
@@ -40,6 +41,10 @@ hr{
 
 #portfolio{
     color: #999999;
+}
+
+#footer{
+    color: #707075;
 }
 
 .flex-container{
