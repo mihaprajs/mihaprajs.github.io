@@ -1,0 +1,11 @@
+hr, footer {
+    display: none;
+}
+
+body {
+    background-color: white;
+}
+
+p, h1, h2, h3 {
+    color: black;
+}
